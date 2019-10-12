@@ -13,7 +13,7 @@ Review of Data Structures and Algorithms
                                         The last node's *next pointer points to HEAD and 
                                         the HEAD's *previous pointer points to the TAIL.
                                         
-                  I will be using Linked-Lists and other methods to implement the following data structures.
+                  I will be using Linked-Lists and other methods to implement the following data structures:
 
 
 1. Array
