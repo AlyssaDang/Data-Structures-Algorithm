@@ -10,7 +10,8 @@ Review of Data Structures and Algorithms
                   Doubly Linked-List: Each node contains a pointer to the *next node and the *previous node
 
                   Circular Linked-List: This can be singly linked or doubly linked. 
-                                        The last node's *next pointer points to HEAD and the HEAD's *previous pointer points to the TAIL.
+                                        The last node's *next pointer points to HEAD and 
+                                        the HEAD's *previous pointer points to the TAIL.
 
 
 1. Array
