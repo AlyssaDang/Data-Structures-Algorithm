@@ -2,7 +2,7 @@
 Review of Data Structures and Algorithms
 
 
-0. Linked-List:   A linear structure containing nodes, which has 1+ pointer variable that references its place in the structure.
+0. Linked-List:   A structure containing nodes, which has 1+ pointer variable that references its place in the structure.
                   The first node is called the HEAD and the last node is called the (optional) TAIL.
 
                   Singly Linked-List: Each node contains a singular pointer to the *next node.
@@ -12,6 +12,8 @@ Review of Data Structures and Algorithms
                   Circular Linked-List: This can be singly linked or doubly linked. 
                                         The last node's *next pointer points to HEAD and 
                                         the HEAD's *previous pointer points to the TAIL.
+                                        
+                  I will be using Linked-Lists and other methods to implement the following data structures.
 
 
 1. Array
