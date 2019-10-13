@@ -24,12 +24,30 @@ Review of Data Structures and Algorithms
 
 2. Stack
 
+                  Array Implementation:
+                  Linked-List Implementation:
+
 3. Queue
 
+                  Array Implementation:
+                  Linked-List Implementation:
+                  
 4. Tree
 
+                  Array Implementation:
+                  Linked-List Implementation:
+            
 5. Heap
 
+                  Array Implementation:
+                  Linked-List Implementation:
+            
 6. Hash
 
+                  Array Implementation:
+                  Linked-List Implementation:
+            
 7. Matrix
+
+                  Array Implementation:
+                  Linked-List Implementation:
