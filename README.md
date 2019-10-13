@@ -16,7 +16,11 @@ Review of Data Structures and Algorithms
                   I will be using Linked-Lists and other methods to implement the following data structures:
 
 
-1. Array
+1. Array: A linear data structure that can hold items of the same type.
+
+                  Static Array: An array where the size is fixed and declared at instantiation.
+                  Dynamic Array: An array where the size is growable.
+                  Linked-List Implementation: This implements a dynamic array where elements are stored in nodes.
 
 2. Stack
 
