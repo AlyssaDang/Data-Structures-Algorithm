@@ -12,9 +12,6 @@
                   Circular Linked-List: This can be singly linked or doubly linked. 
                                         The last node's *next pointer points to HEAD and 
                                         the HEAD's *previous pointer points to the TAIL.
-                                        
-                  I will be using Linked-Lists and other methods to implement the following data structures:
-
 
 **1. Array: A linear data structure that can hold items of the same type.**
 
