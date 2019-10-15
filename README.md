@@ -39,22 +39,22 @@ Review of Data Structures and Algorithms
                                       Implementation File: StackArray.cpp
                                       Public Functions:                               Time Complexity:
                                       Constructor StackArray()
-                                      Push(item)
-                                      Top()
-                                      Pop(item)
+                                      push(item)
+                                      top()
+                                      pop(item)
                                       getSize()
-                                      Deconstructor StackArray()
+                                      Deconstructor ~StackArray()
                                       
                   Linked-List Implementation:
                   
                                       Implementation File: StackLL.cpp
                                       Public Functions:                               Time Complexity:
                                       Constructor StackLL()
-                                      Push(item)
-                                      Top()
-                                      Pop(item)
+                                      push(item)
+                                      top()
+                                      pop(item)
                                       getSize()
-                                      Deconstructor StackLL()
+                                      Deconstructor ~StackLL()
                                       
 3. Queue: A linear data structure that removes items the opposite end of the insertion. FIFO (First In, First Out)
 
@@ -62,12 +62,22 @@ Review of Data Structures and Algorithms
                   
                                       Implementation File: QueueArray.cpp
                                       Public Functions:                               Time Complexity:
+                                      Constructor QueueArray()
+                                      insert()
+                                      remove()
+                                      getSize()
+                                      Deconstructor ~QueueArray()
                                       
                   Linked-List Implementation:
                   
                                       Implementation File: QueueLL.cpp
                                       Public Functions:                               Time Complexity:
-
+                                      Constructor QueueLL()
+                                      insert()
+                                      remove()
+                                      getSize()
+                                      Deconstructor ~QueueLL()
+                                      
 4. Tree
 
                   Array Implementation:
