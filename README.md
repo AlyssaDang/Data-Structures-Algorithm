@@ -2,8 +2,8 @@
 ***Review of Data Structures and Algorithms By Alyssa Dang***
 
 
-**0. Linked-List:   A structure containing nodes, which has 1+ pointer variable that references its place in the structure.
-                  The first node is called the HEAD and the last node is called the (optional) TAIL.**
+## 0. Linked-List:   A structure containing nodes, which has 1+ pointer variable that references its place in the structure.
+                  The first node is called the HEAD and the last node is called the (optional) TAIL.
 
                   Singly Linked-List: Each node contains a singular pointer to the *next node.
 
