@@ -1,5 +1,5 @@
 # Data-Structures-Algorithm
-***Review of Data Structures and Algorithms***
+***Review of Data Structures and Algorithms By Alyssa Dang***
 
 
 **0. Linked-List:   A structure containing nodes, which has 1+ pointer variable that references its place in the structure.
