@@ -21,6 +21,7 @@ Review of Data Structures and Algorithms
                   Static Array: An array where the size is fixed and declared at instantiation.
                   Dynamic Array: An array where the size is growable.
                   Linked-List Implementation: This implements a dynamic array where elements are stored in nodes.
+                  
                                       Implementation File: ArrayLL.cpp
                                       Public Functions:                               Time Complexity:
                                       Constructor ArrayLL()                           O(1)
@@ -34,26 +35,39 @@ Review of Data Structures and Algorithms
 2. Stack: A linear data structure that removes and inserts items from the same end. LIFO (Last In, First Out)
 
                   Array Implementation:
+                  
                                       Implementation File: StackArray.cpp
                                       Public Functions:                               Time Complexity:
+                                      
                   Linked-List Implementation:
+                  
                                       Implementation File: StackLL.cpp
                                       Public Functions:                               Time Complexity:
 
 3. Queue: A linear data structure that removes items the opposite end of the insertion. FIFO (First In, First Out)
 
                   Array Implementation:
+                  
                                       Implementation File: QueueArray.cpp
                                       Public Functions:                               Time Complexity:
+                                      
                   Linked-List Implementation:
+                  
                                       Implementation File: QueueLL.cpp
                                       Public Functions:                               Time Complexity:
 
 4. Tree
 
                   Array Implementation:
+                  
+                                      Implementation File: TreeArray.cpp
+                                      Public Functions:                               Time Complexity:
+
                   Linked-List Implementation:
-            
+                  
+                                      Implementation File: TreeLL.cpp
+                                      Public Functions:                               Time Complexity:
+                                      
 5. Heap
 
                   Array Implementation:
