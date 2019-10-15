@@ -16,7 +16,7 @@
                   I will be using Linked-Lists and other methods to implement the following data structures:
 
 
-*1. Array: A linear data structure that can hold items of the same type.*
+**1. Array: A linear data structure that can hold items of the same type.**
 
                   Static Array: An array where the size is fixed and declared at instantiation.
                   Dynamic Array: An array where the size is growable.
@@ -32,7 +32,7 @@
                                       getSize()                                       O(1)
                                       Deconstructor ~ArrayLL()
 
-***2. Stack: A linear data structure that removes and inserts items from the same end. LIFO (Last In, First Out)***
+**2. Stack: A linear data structure that removes and inserts items from the same end. LIFO (Last In, First Out)**
 
                   Array Implementation:
                   
