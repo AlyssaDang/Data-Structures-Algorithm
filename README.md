@@ -22,7 +22,7 @@ Review of Data Structures and Algorithms
                   Dynamic Array: An array where the size is growable.
                   Linked-List Implementation: This implements a dynamic array where elements are stored in nodes.
                   
-                                      Implementation File: ArrayLL.cpp
+                                      Implementation File: ArrayLL.cpp                Space: O(n)
                                       Public Functions:                               Time Complexity:
                                       Constructor ArrayLL()                           O(1)
                                       insert(item)                                    O(1)
@@ -38,12 +38,24 @@ Review of Data Structures and Algorithms
                   
                                       Implementation File: StackArray.cpp
                                       Public Functions:                               Time Complexity:
+                                      Constructor StackArray()
+                                      Push(item)
+                                      Top()
+                                      Pop(item)
+                                      getSize()
+                                      Deconstructor StackArray()
                                       
                   Linked-List Implementation:
                   
                                       Implementation File: StackLL.cpp
                                       Public Functions:                               Time Complexity:
-
+                                      Constructor StackLL()
+                                      Push(item)
+                                      Top()
+                                      Pop(item)
+                                      getSize()
+                                      Deconstructor StackLL()
+                                      
 3. Queue: A linear data structure that removes items the opposite end of the insertion. FIFO (First In, First Out)
 
                   Array Implementation:
