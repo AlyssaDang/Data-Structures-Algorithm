@@ -22,12 +22,12 @@ Review of Data Structures and Algorithms
                   Dynamic Array: An array where the size is growable.
                   Linked-List Implementation: This implements a dynamic array where elements are stored in nodes.
 
-2. Stack
+2. Stack: A linear data structure that removes and inserts items from the same end. LIFO (Last In, First Out)
 
                   Array Implementation:
                   Linked-List Implementation:
 
-3. Queue
+3. Queue: A linear data structure that removes items the opposite end of the insertion. FIFO (First In, First Out)
 
                   Array Implementation:
                   Linked-List Implementation:
