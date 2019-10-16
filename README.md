@@ -77,6 +77,7 @@
                                       
 **4. Tree**
 
+Traversals: Inorder, Preorder, Postorder
                   Array Implementation:
                   
                                       Implementation File: TreeArray.cpp
