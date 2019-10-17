@@ -100,5 +100,6 @@ Traversals: Inorder, Preorder, Postorder
             
 **7. Matrix**
 
+                  Vector Implementation:
                   Array Implementation:
                   Linked-List Implementation:
