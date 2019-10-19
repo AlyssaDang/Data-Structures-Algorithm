@@ -10,7 +10,7 @@
           Best: O(n^2)
 
 
-**2. Insertion Sort: **
+**2. Insertion Sort:**
 
     Space: O(1)
     Time:
@@ -19,7 +19,7 @@
           Best: O(n)
 
 
-**3. Heap Sort: **
+**3. Heap Sort:**
 
     Space: O(1)
     Time:
@@ -28,7 +28,7 @@
           Best: O(nlog(n))
 
 
-**4. Bubble Sort: **
+**4. Bubble Sort:**
 
     Space: O(1)
     Time:
@@ -37,7 +37,7 @@
           Best: O(n)
 
 
-**7. Merge Sort: **
+**7. Merge Sort:**
 
     Space: O(n)
     Time:
@@ -46,7 +46,7 @@
           Best: O(nlog(n))
 
 
-**8. Quick Sort: **
+**8. Quick Sort:**
 
     Space: O(n)
     Time:
