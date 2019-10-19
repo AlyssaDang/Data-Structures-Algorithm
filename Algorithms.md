@@ -1,6 +1,6 @@
 ## Sorting Linear Data
 
-**1. Selection Sort: **
+** 1. Selection Sort: **
 
                   Space: O(1)
                   Time:
